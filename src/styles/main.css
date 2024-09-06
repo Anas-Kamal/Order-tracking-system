@@ -1,0 +1,100 @@
+:root{
+    --primary: #d9b99b;
+    --primary50: #d9b99bf0;
+    --secondary: #f5f5f5;
+    --secondary2: #f0ece9;
+    --brown:#b89484;
+    --darkBrown:#a37c55;
+    --lightBrown: #dfb891;
+
+}
+
+.border-darkgray-color{
+    border-color: #151b21 !important;
+}
+
+.bg-darkgray-color{
+    background-color: #151b21;
+}
+.bg-black-color{
+    background-color: #0d1116;
+}
+.bg-light-grey{
+    background-color: var(--secondary); 
+}
+.bg-primary-color{
+    background-color: var(--primary)
+}
+
+.bg-primary-50-color{
+    background-color: var(--primary50)
+}
+
+
+.bg-secondary-color{
+    background-color: var(--secondary)
+}
+
+.bg-secondary2-color{
+    background-color: var(--secondary2)
+}
+
+.bg-brown-color{
+    background-color: var(--brown)
+}
+.bg-darkbrown-color{
+    background-color: var(--darkBrown)
+}
+.bg-lightbrown-color{
+    background-color: var(--lightBrown)
+}
+
+.text-primary-color{
+    color: var(--primary)
+}
+
+.text-secondary-color{
+    color: var(--secondary)
+}
+
+.text-secondary2-color{
+    color: var(--secondary2)
+}
+
+.text-brown-color{
+    color: var(--brown)
+}
+.text-darkbrown-color{
+    color: var(--darkBrown)
+}
+.text-lightbrown-color{
+    color: var(--lightBrown)
+}
+
+
+.stock-primary-color{
+    color: var(--primary)
+}
+
+.stock-secondary-color{
+    color: var(--secondary)
+}
+
+.stock-secondary2-color{
+    color: var(--secondary2)
+}
+
+.stock-brown-color{
+    color: var(--brown)
+}
+.stock-darkbrown-color{
+    color: var(--darkBrown)
+}
+.stock-lightbrown-color{
+    color: var(--lightBrown)
+}
+
+.text-xs1 {
+    font-size: 0.5rem/* 12px */;
+    line-height: .9rem/* 16px */;
+}
